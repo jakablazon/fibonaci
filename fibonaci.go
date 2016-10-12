@@ -17,3 +17,15 @@ func main() {
 	// Function calls are evaluated left-to-right.
 	fmt.Println(f(), f(), f(), f(), f())
 }
+
+package main
+
+import "fmt"
+
+func fib() func () interface{a,// BUG: =1+1=2} {
+
+}  {
+
+}
+
+<div class>
